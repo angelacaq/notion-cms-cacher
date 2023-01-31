@@ -8,6 +8,8 @@
   },
   "private": true,
   "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "dotenv": "^16.0.3",
     "tsx": "^3.12.2"
   }
 }
